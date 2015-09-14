@@ -58,7 +58,5 @@ object ScalaBasics {
 	
   } 
 
-  //6. Exceptions
-  def handleException()5 xxbgg  
-
+  
 }
